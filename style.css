@@ -2,8 +2,8 @@
 
 :root {
     --cor-principal: #000000;
-    --cor-secundaria: #00000086;
-    --cor-destaque: #00000033;
+    --cor-secundaria: #960101;
+    --cor-destaque: #6b0202;
 }
 
 body {
@@ -27,4 +27,3 @@ a, .btn-link:hover {
 
 a:hover{
     color: var(--cor-destaque);
-}
